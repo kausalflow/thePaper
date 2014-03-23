@@ -51,6 +51,11 @@ A list of important, classical publications.
 * S. Popescu, A. J. Short, and A. Winter. "Entanglement and the foundations of statistical mechanics". [Nat. Phys. 2, 754 (2006)](http://www.nature.com/nphys/journal/v2/n11/abs/nphys444.html). doi:10.1038/nphys444 | {Clever and interesting idea}
 
 
+**Ising Model**
+
+* R J Baxter and I G Enting. "399th solution of the Ising model". [J. Phys. A: Math. Gen. 11 2463 (1978)](http://iopscience.iop.org/0305-4470/11/12/012).
+
+
 #### Classical Mechanics
 
 
