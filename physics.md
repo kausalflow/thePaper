@@ -1,5 +1,4 @@
 
-
 A list of important, classical publications. 
 
 ([A list of publications on wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_physics).)
@@ -14,6 +13,10 @@ A list of important, classical publications.
 
 
 #### Quantum
+
+**A list on fundations of quantum**
+
+* E. Wigner. "On Unitary Representations of the Inhomogeneous Lorentz Group". Annals of Mathematics Second Series, Vol. 40, No. 1 (Jan., 1939) , pp. 149-204. [Read on JSTOR](http://www.jstor.org/stable/1968551).
 
 
 **A list on quantum computation**
