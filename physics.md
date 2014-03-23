@@ -1,4 +1,3 @@
-
 A list of important, classical publications. 
 
 ([A list of publications on wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_physics).)
@@ -16,12 +15,13 @@ A list of important, classical publications.
 
 **A list on fundations of quantum**
 
-* E. Wigner. "On Unitary Representations of the Inhomogeneous Lorentz Group". Annals of Mathematics Second Series, Vol. 40, No. 1 (Jan., 1939) , pp. 149-204. [Read on JSTOR](http://www.jstor.org/stable/1968551).
+* E. Wigner. "On Unitary Representations of the Inhomogeneous Lorentz Group". Annals of Mathematics Second Series, Vol. 40, No. 1 (Jan., 1939) , pp. 149-204. [Read on JSTOR](http://www.jstor.org/stable/1968551). | {Topic Creator}
+* A. Einstein, B. Podolsky, and N. Rosen. "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?". Phys. Rev. 47, 777. | {Find PDFs by searching on Google. For example: on [Utrecht U](http://www.staff.science.uu.nl/~stief101/epr_latex.pdf)}
 
 
 **A list on quantum computation**
 
-* Feynman, R. P. (1982). "Simulating physics with computers". International Journal of Theoretical Physics 21 (6): 467–488. doi:[10.1007/BF02650179](http://dx.doi.org/10.1007%2FBF02650179). | {Topic creator} | {*The pdf file has been spread all over the web so it's archived in this repo.[Simulating physics with computers](physics/quantum/quantumComputation/simulatingPhysicsWithComputers.pdf)*}
+* Feynman, R. P. (1982). "Simulating physics with computers". International Journal of Theoretical Physics 21 (6): 467–488. doi:[10.1007/BF02650179](http://dx.doi.org/10.1007%2FBF02650179). | {Topic Creator} | {*The pdf file has been spread all over the web so it's archived in this repo.[Simulating physics with computers](physics/quantum/quantumComputation/simulatingPhysicsWithComputers.pdf)*}
 
 
 
