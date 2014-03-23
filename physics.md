@@ -47,6 +47,7 @@ A list of important, classical publications.
 
 **Fundamental Questions of Stat Mech**
 
+* E. Wigner. "On the Quantum Correction For Thermodynamic Equilibrium". [Phys. Rev. 40, 749 (1932)](http://journals.aps.org/pr/abstract/10.1103/PhysRev.40.749). DOI: [10.1103/PhysRev.40.749](http://dx.doi.org/10.1103/PhysRev.40.749)  | {Quantum Stat Mech}
 * S. Popescu, A. J. Short, and A. Winter. "Entanglement and the foundations of statistical mechanics". [Nat. Phys. 2, 754 (2006)](http://www.nature.com/nphys/journal/v2/n11/abs/nphys444.html). doi:10.1038/nphys444 | {Clever and interesting idea}
 
 
