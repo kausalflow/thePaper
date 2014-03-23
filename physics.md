@@ -47,6 +47,7 @@ A list of important, classical publications.
 
 **Fundamental Questions of Stat Mech**
 
+* Gibbs, J. Willard. "On the Equilibrium of Heterogeneous Substances". Connecticut Acad. Sci. ISBN 0-8493-9685-9. | {One of the versions was published in 1874-1878, so free [PDF archived here](physics/stat/equilibriumOfHeterogeneousSubstances_Gibbs.pdf), [On MIT](http://web.mit.edu/jwk/www/docs/Gibbs1875-1878-Equilibrium_of_Heterogeneous_Substances.pdf), [On Internet Archive](https://archive.org/details/Onequilibriumhe00Gibb)}
 * E. Wigner. "On the Quantum Correction For Thermodynamic Equilibrium". [Phys. Rev. 40, 749 (1932)](http://journals.aps.org/pr/abstract/10.1103/PhysRev.40.749). DOI: [10.1103/PhysRev.40.749](http://dx.doi.org/10.1103/PhysRev.40.749)  | {Quantum Stat Mech}
 * S. Popescu, A. J. Short, and A. Winter. "Entanglement and the foundations of statistical mechanics". [Nat. Phys. 2, 754 (2006)](http://www.nature.com/nphys/journal/v2/n11/abs/nphys444.html). doi:10.1038/nphys444 | {Clever and interesting idea}
 
