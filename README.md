@@ -3,6 +3,12 @@ thePaper
 
 A collection of important papers of science. DO NOT push copyright materials.
 
+**Search with parameters on Google to retrieve the results you want exactly. Examples here:**
+* `filetype:pdf` to show only pdf files.
+* `*` to fill in a blank
+
+Find all operators [here](https://support.google.com/websearch/answer/136861?hl=en) or just use [Advanced Search](http://www.google.com/advanced_search).
+
 
 Tell us what to add [here](https://github.com/opentf/thePaper/issues?labels=propose) or fork and pull request.
 
