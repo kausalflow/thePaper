@@ -48,6 +48,7 @@ A list of important, classical publications.
 **Fundamental Questions of Stat Mech**
 
 * Gibbs, J. Willard. "On the Equilibrium of Heterogeneous Substances". Connecticut Acad. Sci. ISBN 0-8493-9685-9. | {One of the versions was published in 1874-1878, so free [PDF archived here](physics/stat/equilibriumOfHeterogeneousSubstances_Gibbs.pdf), [On MIT](http://web.mit.edu/jwk/www/docs/Gibbs1875-1878-Equilibrium_of_Heterogeneous_Substances.pdf), [On Internet Archive](https://archive.org/details/Onequilibriumhe00Gibb)}
+* Einstein, Albert (May 1905). "Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen" ([PDF](http://www.physik.uni-augsburg.de/annalen/history/papers/1905_17_549-560.pdf)). Annalen der Physik 322 (8): 549–560. | {Translated and reprinted: Einstein, Albert; R. Fürth, transl. by A. D. Cowper (1926, reprinted in 1956). "On the Movement of Small Particles Suspended in a Stationary Liquid Demanded by the Molecular-Kinetic Theory of Heat" ([PDF on MIT](http://users.physik.fu-berlin.de/~kleinert/files/eins_brownian.pdf)). Investigations on the theory of the Brownian motion. Dover Publications. ISBN [0-486-60304-0](https://en.wikipedia.org/wiki/Special:BookSources/0-486-60304-0)} | {This paper solves a lot of misteries in stat mech and help us find key constants in stat mech.}
 * E. Wigner. "On the Quantum Correction For Thermodynamic Equilibrium". [Phys. Rev. 40, 749 (1932)](http://journals.aps.org/pr/abstract/10.1103/PhysRev.40.749). DOI: [10.1103/PhysRev.40.749](http://dx.doi.org/10.1103/PhysRev.40.749)  | {Quantum Stat Mech}
 * S. Popescu, A. J. Short, and A. Winter. "Entanglement and the foundations of statistical mechanics". [Nat. Phys. 2, 754 (2006)](http://www.nature.com/nphys/journal/v2/n11/abs/nphys444.html). doi:10.1038/nphys444 | {Clever and interesting idea}
 
@@ -55,6 +56,9 @@ A list of important, classical publications.
 **Ising Model**
 
 * R J Baxter and I G Enting. "399th solution of the Ising model". [J. Phys. A: Math. Gen. 11 2463 (1978)](http://iopscience.iop.org/0305-4470/11/12/012).
+
+
+
 
 
 #### Classical Mechanics
