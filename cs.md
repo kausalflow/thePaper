@@ -1,6 +1,6 @@
 > Computing is a science.
 
-> Take a look at [papers-we-love](https://github.com/papers-we-love/papers-we-love).
+Take a look at [papers-we-love](https://github.com/papers-we-love/papers-we-love).
 
 --------
 
