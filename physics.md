@@ -61,6 +61,10 @@ A list of important, classical publications.
 
 
 
+**Master equation**
+
+* Irwin Oppenheim and Kurt E. Shuler. "Master Equations and Markov Processes". [Phys. Rev. 138, B1007 (1965)](http://journals.aps.org/pr/abstract/10.1103/PhysRev.138.B1007) | {"Derive" master equation from Markov process}
+
 
 
 #### Classical Mechanics
