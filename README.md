@@ -40,6 +40,7 @@ For Copyright Length, check [this page](https://en.wikipedia.org/wiki/List_of_co
 * [CS](cs.md)
 * [BIO](bio.md)
 * [Philosophy](philosophy.md)
+* [Psychology](psychology.md)
 
 *Experimental: interesting papers*
 
