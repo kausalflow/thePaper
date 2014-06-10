@@ -88,3 +88,9 @@ A list of important, classical publications.
 * Padmanabhan, Thanu (26 November 2009). "Thermodynamical Aspects of Gravity: New insights". Rep. Prog. Phys. 73 (4): 6901. arXiv:[0911.5004](https://arxiv.org/abs/0911.5004). Bibcode:[2010RPPh...73d6901P](http://adsabs.harvard.edu/abs/2010RPPh...73d6901P). doi:[10.1088/0034-4885/73/4/046901](http://dx.doi.org/10.1088%2F0034-4885%2F73%2F4%2F046901). | {Connection between gravity and thermodynamical entropy}
 * E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP. arXiv:[1001.0785](https://arxiv.org/abs/1001.0785). Bibcode:[2011JHEP...04..029V](http://adsabs.harvard.edu/abs/2011JHEP...04..029V). doi:[10.1007/JHEP04(2011)029](http://dx.doi.org/10.1007%2FJHEP04%282011%29029). | {Entropic gravity}
 * Rong-Gen Cai; Li-Ming Cao; Nobuyoshi Ohta (2010). "Friedmann Equations from Entropic Force". Phys. Rev. D 81 (6). arXiv:[1001.3470](https://arxiv.org/abs/1001.3470). Bibcode:2010PhRvD..81f1501C. doi:10.1103/PhysRevD.81.061501. | {Entropic force into cosmology}
+
+
+#### Nuclear Astrophysics
+
+
+* Boris Kayser, "On the quantum mechanics of neutrino oscillation", [Phys. Rev. D 24, 110](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.24.110)
